@@ -18,7 +18,7 @@ Para configurar o projeto em sua máquina local, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/paulabicca/blogging-test.git
+   git clone https://github.com/paulabicca/blogging.git
    ```
 
 2. **Instale as dependências:**
